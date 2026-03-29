@@ -9,3 +9,4 @@ venv/
 notebook/
 SAMPLE_DOC/
 logs/
+mlflow.db
