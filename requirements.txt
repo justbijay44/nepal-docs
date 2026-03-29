@@ -1,0 +1,6 @@
+pytesseract
+pillow 
+google-genai 
+opencv-python
+python-dotenv
+streamlit
